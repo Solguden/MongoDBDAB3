@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FlemmingBlaabjerg\\Source\\Repos\\Solguden\\MongoDBDAB3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj": {}
+    "C:\\Users\\jeppe\\Desktop\\Dab3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FlemmingBlaabjerg\\Source\\Repos\\Solguden\\MongoDBDAB3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj": {
+    "C:\\Users\\jeppe\\Desktop\\Dab3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FlemmingBlaabjerg\\Source\\Repos\\Solguden\\MongoDBDAB3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj",
+        "projectUniqueName": "C:\\Users\\jeppe\\Desktop\\Dab3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj",
         "projectName": "SocialNetworkMongoDB",
-        "projectPath": "C:\\Users\\FlemmingBlaabjerg\\Source\\Repos\\Solguden\\MongoDBDAB3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj",
-        "packagesPath": "C:\\Users\\FlemmingBlaabjerg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FlemmingBlaabjerg\\Source\\Repos\\Solguden\\MongoDBDAB3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\obj\\",
+        "projectPath": "C:\\Users\\jeppe\\Desktop\\Dab3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\SocialNetworkMongoDB.csproj",
+        "packagesPath": "C:\\Users\\jeppe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeppe\\Desktop\\Dab3\\SocialNetworkMongoDB\\SocialNetworkMongoDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\FlemmingBlaabjerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jeppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
